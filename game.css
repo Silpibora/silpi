@@ -328,4 +328,7 @@ a:hover {
     .shadow_realm h1{
        font-size: 2.5rem;
     }
+    .shadow_realm{
+        bottom:1rem;
+    }
 }
