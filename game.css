@@ -92,6 +92,7 @@ a:hover {
     border:none;
     letter-spacing: 1px;
     position: relative;
+    cursor:pointer;
 }
 .badge:hover{
     transform:scale(1.1);
@@ -144,6 +145,7 @@ a:hover {
      border:1px solid black;
       border-radius: 0.5rem;
       margin-right: 0.6rem;
+     cursor:pointer;
    
 }
 .card:hover{
